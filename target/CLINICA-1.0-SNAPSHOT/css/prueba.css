@@ -1,0 +1,25 @@
+
+h1.groove {border-style: groove;
+            border-radius: 5px;
+            width: 50%;
+            background-color:#FFFFF0;
+}
+.estilo{
+  background-color: lightgrey;
+  width: 30%;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+.espacio{
+    
+    margin-top: 60px;
+}
+.marge_derecho{
+    padding-right: 30px;
+}
+
+.boton{
+    width: 130px;
+    height: 80px;
+}

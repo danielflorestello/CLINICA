@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/ServicioWebClinica/ListarPacientes?wsdl" uri="wsdl/localhost_8080/ServicioWebClinica/ListarPacientes.wsdl"/>
+    <system systemId="http://localhost:8080/ServicioWebClinica/ListarPacientes?xsd=1" uri="wsdl/localhost_8080/ServicioWebClinica/ListarPacientes.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/ServicioWebClinica/SesionPaciente?wsdl" uri="wsdl/localhost_8080/ServicioWebClinica/SesionPaciente.wsdl"/>
+    <system systemId="http://localhost:8080/ServicioWebClinica/SesionPaciente?xsd=1" uri="wsdl/localhost_8080/ServicioWebClinica/SesionPaciente.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/ServicioWebClinica/WebServiceUbigeo?wsdl" uri="wsdl/localhost_8080/ServicioWebClinica/WebServiceUbigeo.wsdl"/>
+    <system systemId="http://localhost:8080/ServicioWebClinica/WebServiceUbigeo?xsd=1" uri="wsdl/localhost_8080/ServicioWebClinica/WebServiceUbigeo.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/ServicioWebClinica/Servicios?wsdl" uri="wsdl/localhost_8080/ServicioWebClinica/Servicios.wsdl"/>
+    <system systemId="http://localhost:8080/ServicioWebClinica/Servicios?xsd=1" uri="wsdl/localhost_8080/ServicioWebClinica/Servicios.xsd_1.xsd"/>
+</catalog>
